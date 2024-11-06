@@ -1,0 +1,8 @@
+python -m venv my_env
+source my_env/bin/activate
+
+my_env\Scripts\activate 
+
+=-> to activate the environment, before starting working here, must run this at windows
+
+Set-ExecutionPolicy Unrestricted -Scope Process -> if previous command gives error then execute this and try the previous on again

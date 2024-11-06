@@ -1,6 +1,6 @@
 {
     "time_tracker.py - automate - Cursor": {
-        "time_spent": 172,
+        "time_spent": 205,
         "last_active_time": "2024-11-06T12:25:37.427600"
     },
     "time_tracking_data.json - automate - Cursor": {
@@ -12,7 +12,7 @@
         "last_active_time": "2024-11-06T12:26:18.625677"
     },
     "Task Switching": {
-        "time_spent": 1,
+        "time_spent": 2,
         "last_active_time": "2024-11-06T12:26:26.821057"
     },
     "": {
@@ -28,7 +28,7 @@
         "last_active_time": "2024-11-06T12:35:37.541015"
     },
     "Time Tracker": {
-        "time_spent": 29,
+        "time_spent": 125,
         "last_active_time": "2024-11-06T12:39:32.051837"
     },
     "Nodejs Desktop Automation Tools - Google Chrome": {
@@ -36,7 +36,11 @@
         "last_active_time": "2024-11-06T12:40:14.386519"
     },
     "COMMIT_EDITMSG - automate - Cursor": {
-        "time_spent": 10,
+        "time_spent": 14,
         "last_active_time": "2024-11-06T12:41:02.767989"
+    },
+    "\u25cf time_tracker.py - automate - Cursor": {
+        "time_spent": 9,
+        "last_active_time": "2024-11-06T12:49:39.713735"
     }
 }
